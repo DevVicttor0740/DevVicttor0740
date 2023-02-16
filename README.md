@@ -7,7 +7,7 @@
   
   <body>
     <h1><em><strong> Dev Victtor na área </strong></em></h1>
-    <p> Aqui você verá meus repositórios e minhas habilidades sendo desenvolvidas. Espero que se divirta. 👨‍💻</p>
+    <p> Aqui você verá meus repositórios e minhas habilidades sendo desenvolvidas.👨‍💻</p>
     <div align="center">
   <a href="https://github.com/DevVicttor0740">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victtor&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
