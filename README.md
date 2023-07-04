@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
-  <head> 
-    <mate chaset = "UTF-8">
-    <header> Hello World! 🌎</header>
-  </head>
-  
-  <body>
-    <h1><em><strong> Dev Victtor na área </strong></em></h1>
-    <p> Aqui você verá meus repositórios e minhas habilidades sendo desenvolvidas.👨‍💻</p>
-    <div align="center">
-  <a href="https://github.com/DevVicttor0740">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victtor&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victtori&layout=compact&langs_count=7&theme=dracula"/>
+<head>
+</head>
+<body>
+  <div>
+    <h1>Victtor de Oliveira</h1>
+    <p><center>Hello! Welcome to my space. 👨‍🚀🌱</center></p>
+    <p>Cursando Engenharia da Computação👨‍💻</p>
+    <p>Tecnologias🤖: Python, HTML, CSS, Bootstrap, C, MySQL</p>
+    <hr>
+    <h2>Sobre mim</h2>
+    <p>Bem-vindo ao meu perfil do GitHub! Sou um estudante que está sempre se reinventando. Gosto de estudar e me aprofundar cada vez mais no mundo da programação. Estou sempre aberto a criticas construtivas e oportunidades de aprendizado. </p>
+    <h2>Contato</h2>
+    <p>Email: victtor.py@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/victtor-oliveira-897a991a4/">Meu LinkedIn👨‍💻</a></p>
+    <p>Fique a vontade para entrar em contato comigo da forma que você preferir! </p>
   </div>
-    <p><strong>Abaixo possui os links para que você me encontre em outras redes sociais</strong></p>
-  </body>
+</body>
 </html>
